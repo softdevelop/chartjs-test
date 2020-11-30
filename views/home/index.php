@@ -32,5 +32,4 @@
 	<br>
 	<script type="text/javascript" src="media/js/chart.js"></script>
 </body>
-
 </html>

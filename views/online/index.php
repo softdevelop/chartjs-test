@@ -1,6 +1,5 @@
 <!doctype html>
 <html>
-
 <head>
 	<title>Chart Online</title>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -32,5 +31,4 @@
 	<br>
 	<script type="text/javascript" src="media/js/online_chart.js"></script>
 </body>
-
 </html>
